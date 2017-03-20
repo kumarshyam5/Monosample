@@ -1,0 +1,9 @@
+c:\users\u23298\documents\visual studio 2017\Projects\MonoJenkinsIntegration\src\MonoJenkinsIntegration\bin\Debug\netcoreapp1.0\MonoJenkinsIntegration.deps.json
+c:\users\u23298\documents\visual studio 2017\Projects\MonoJenkinsIntegration\src\MonoJenkinsIntegration\bin\Debug\netcoreapp1.0\MonoJenkinsIntegration.runtimeconfig.json
+c:\users\u23298\documents\visual studio 2017\Projects\MonoJenkinsIntegration\src\MonoJenkinsIntegration\bin\Debug\netcoreapp1.0\MonoJenkinsIntegration.runtimeconfig.dev.json
+c:\users\u23298\documents\visual studio 2017\Projects\MonoJenkinsIntegration\src\MonoJenkinsIntegration\bin\Debug\netcoreapp1.0\MonoJenkinsIntegration.dll
+c:\users\u23298\documents\visual studio 2017\Projects\MonoJenkinsIntegration\src\MonoJenkinsIntegration\bin\Debug\netcoreapp1.0\MonoJenkinsIntegration.pdb
+c:\users\u23298\documents\visual studio 2017\Projects\MonoJenkinsIntegration\src\MonoJenkinsIntegration\obj\Debug\netcoreapp1.0\MonoJenkinsIntegration.csprojResolveAssemblyReference.cache
+c:\users\u23298\documents\visual studio 2017\Projects\MonoJenkinsIntegration\src\MonoJenkinsIntegration\obj\Debug\netcoreapp1.0\MonoJenkinsIntegration.AssemblyInfo.cs
+c:\users\u23298\documents\visual studio 2017\Projects\MonoJenkinsIntegration\src\MonoJenkinsIntegration\obj\Debug\netcoreapp1.0\MonoJenkinsIntegration.dll
+c:\users\u23298\documents\visual studio 2017\Projects\MonoJenkinsIntegration\src\MonoJenkinsIntegration\obj\Debug\netcoreapp1.0\MonoJenkinsIntegration.pdb
